@@ -1,0 +1,19 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Vim
+*.swp
+
+# Unity
+/Library
+/Temp
+
+/Extras/*/backup
+/Extras/*/out
+/Extras/*/src/*.jpg
+/Extras/*/src/*.mtl
+/Extras/*/src/*.obj
