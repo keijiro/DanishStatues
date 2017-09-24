@@ -81,7 +81,7 @@
             half3 cx = tex2D(_DetailAlbedoMap, tx).rgb * bf.x;
             half3 cy = tex2D(_DetailAlbedoMap, ty).rgb * bf.y;
             half3 cz = tex2D(_DetailAlbedoMap, tz).rgb * bf.z;
-            o.Albedo = (cx + cy + cz) * lerp(_Color.rgb, _Color.rgb, cv);
+            o.Albedo = (cx + cy + cz) * lerp(_Color.rgb, _Color2.rgb, cv);
 
             // Normal map
             half3 nb = UnpackNormal(tex2D(_BumpMap, IN.baseCoord));
