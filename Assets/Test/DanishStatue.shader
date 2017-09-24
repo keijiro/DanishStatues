@@ -2,8 +2,8 @@
 {
     Properties
     {
-        _Color("Color", Color) = (1,1,1,1)
-        _Color2("Color 2", Color) = (1,1,1,1)
+        _Color1("Primary Color", Color) = (1,1,1,1)
+        _Color2("Secondary Color", Color) = (1,1,1,1)
 
         _Smoothness("Smoothness", Range(0, 1)) = 0.5
         [Gamma] _Metallic("Metallic", Range(0, 1)) = 0.0
@@ -36,7 +36,7 @@
             float3 localNormal;
         };
 
-        half4 _Color;
+        half4 _Color1;
         half4 _Color2;
 
         half _Smoothness;
@@ -81,7 +81,7 @@
             half3 cx = tex2D(_DetailAlbedoMap, tx).rgb * bf.x;
             half3 cy = tex2D(_DetailAlbedoMap, ty).rgb * bf.y;
             half3 cz = tex2D(_DetailAlbedoMap, tz).rgb * bf.z;
-            o.Albedo = (cx + cy + cz) * lerp(_Color.rgb, _Color2.rgb, cv);
+            o.Albedo = (cx + cy + cz) * lerp(_Color1.rgb, _Color2.rgb, cv);
 
             // Normal map
             half3 nb = UnpackNormal(tex2D(_BumpMap, IN.baseCoord));

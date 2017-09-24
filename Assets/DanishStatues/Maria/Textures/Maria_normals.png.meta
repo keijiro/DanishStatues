@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 1ec74b70c1289ea4c84846f27dd37b6c
-timeCreated: 1506232892
+guid: 6cfaf0211870e814fb06137422ef26c6
+timeCreated: 1506267879
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName: {}
@@ -31,7 +31,7 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 2
-    aniso: -1
+    aniso: 4
     mipBias: -1
     wrapU: 1
     wrapV: 1
@@ -49,7 +49,7 @@ TextureImporter:
   alphaUsage: 1
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 1
   textureShape: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
