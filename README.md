@@ -4,11 +4,11 @@ DanishStatues
 ![screenshot](https://i.imgur.com/0Wx3YUml.png)
 
 This repository contains Danish statue models scanned by [Geoffrey Marchal].
-These models optimized (decimated) for real-time rendering use.
+These models are optimized (decimated) for real-time rendering use.
 
 [Geoffrey Marchal]: https://sketchfab.com/geoffreymarchal
 
-At the moment, this repo only contains the following scans:
+At the moment, it only contains the following scans:
 
 - Dancing Girl (1817-1822), Bertel Thorvaldsen (1770-1844).
   Scanned by Geoffrey Marchal. Decimated to 19,294 polys. 
