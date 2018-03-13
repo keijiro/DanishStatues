@@ -1,0 +1,10 @@
+{
+    "name": "JP.Keijiro.DanishStatues.Editor",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

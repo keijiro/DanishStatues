@@ -1,0 +1,8 @@
+{
+    "name": "jp.keijiro.danish-statues",
+    "displayName": "Danish statues",
+    "version": "0.0.2",
+    "unity": "2018.1",
+    "description": "This package contains Danish statue models scanned by Geoffrey Marchal. These models are optimized (decimated) for real-time rendering use.",
+    "dependencies": { }
+}

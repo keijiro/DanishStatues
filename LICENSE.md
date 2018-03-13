@@ -1,0 +1,1 @@
+These scans are shared under the Creative Commons Attribution license (CC BY 4.0). They're free to use with attribution to the original author (Geoffrey Marchal). For further details, see the descriptions from README.md.

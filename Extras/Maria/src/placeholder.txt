@@ -1,8 +1,0 @@
-The source files are only stored in the local working copy of the repository
-and to be excluded when pushing to GitHub to save the storage and the bandwidth
-usage.
-
-The following files have to be copied from the original scan data into this
-directory before opening the Houdini project file.
-
-- maria.obj from https://sketchfab.com/models/7511b9190aa249a694084f5f4b43d920
