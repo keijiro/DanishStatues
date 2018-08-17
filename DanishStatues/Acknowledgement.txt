@@ -1,0 +1,14 @@
+This directory contains Danish statue models scanned by Geoffrey Marchal.
+
+https://sketchfab.com/geoffreymarchal
+
+These scans are shared under the Creative Commons Attribution license (CC BY
+4.0).
+
+https://creativecommons.org/licenses/by/4.0/
+
+The files contained this directory were preprocessed (clean-upped, decimated
+and UV-unwrapped) for real-time use, which are available from the following
+repository.
+
+https://github.com/keijiro/DanishStatues
