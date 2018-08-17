@@ -1,8 +1,0 @@
-The source files are only stored in the local working copy of the repository
-and to be excluded when pushing to GitHub to save the storage and the bandwidth
-usage.
-
-The following files have to be copied from the original scan data into this
-directory before opening the Houdini project file.
-
-- a179.obj from https://sketchfab.com/models/85c07e953d23422b8cfd955446e55d62
