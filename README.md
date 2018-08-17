@@ -1,7 +1,7 @@
 DanishStatues
 =============
 
-![screenshot](https://i.imgur.com/0Wx3YUml.png)
+![screenshot](https://i.imgur.com/qWxRX6Yl.jpg)
 
 This repository contains Danish statue models scanned by [Geoffrey Marchal].
 These models are optimized (decimated) for real-time rendering use.
