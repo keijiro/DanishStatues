@@ -1,6 +1,6 @@
 {
   "name": "jp.keijiro.danish-statues",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Danish statues",
   "description": "Danish statue models scanned by Geoffrey Marchal",
   "unity": "2022.3",
@@ -10,5 +10,5 @@
   "documentationUrl": "https://github.com/keijiro/DanishStatues",
   "licensesUrl": "https://github.com/keijiro/DanishStatues/blob/master/README.md#license",
   "license": "CC-BY-4.0",
-  "_upm": { "changelog": "" }
+  "_upm": { "changelog": "- Added signing for Unity 6.3." }
 }
