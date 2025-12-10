@@ -1,10 +1,14 @@
 {
-  "author": "Keijiro Takahashi",
-  "description": "Danish statue models scanned by Geoffrey Marchal",
-  "displayName": "Danish statues",
-  "keywords": [ "unity" ],
-  "license": "CC-BY-4.0",
   "name": "jp.keijiro.danish-statues",
-  "repository": "github:keijiro/DanishStatues",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "displayName": "Danish statues",
+  "description": "Danish statue models scanned by Geoffrey Marchal",
+  "unity": "2022.3",
+  "author": "Keijiro Takahashi",
+  "dependencies": { },
+  "changelogUrl": "https://github.com/keijiro/DanishStatues/blob/master/CHANGELOG.md",
+  "documentationUrl": "https://github.com/keijiro/DanishStatues",
+  "licensesUrl": "https://github.com/keijiro/DanishStatues/blob/master/README.md#license",
+  "license": "CC-BY-4.0",
+  "_upm": { "changelog": "" }
 }
